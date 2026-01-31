@@ -36,17 +36,33 @@ src/
 
 `@/*` maps to `./src/*` — use `@/components/...` style imports.
 
+### Supabase MCP
+
+The Supabase MCP server is connected and available for direct interaction with our database, auth, and file storage. Use it for running SQL queries, applying migrations, managing Edge Functions, searching Supabase docs, and inspecting project configuration — no need to shell out to the Supabase CLI.
+
 ## Key Design Decisions
 
 - **Video storage**: URL-based (links to YouTube, Vimeo, etc.) — no native uploads for MVP
 - **Contact flow**: Simple direct messaging between users
 - **Video metadata**: Per-video creation details including AI model, editing tools, prompts, technical specs
 
+## Design Standard
+
+The UI and UX of BloomHive must be award-calibre. Every surface should feel hand-crafted by the best in design and usability — never generic or pedestrian. We care about the details. This is as premium a product as one can imagine.
+
+- **Creator content is the star** — the UI frames it, never competes with it
+- **Dark mode is the default** — optimised for video viewing
+- **Ember (#F97316) is reserved** for primary actions and creator highlights; do not overuse
+- **Maintain WCAG AA contrast minimum** (AAA preferred for text)
+- **Use Lucide icons** — outlined style, 1.5px stroke, rounded corners and caps
+
+See `docs/BRAND.md` for the full brand guidelines including colour palettes, typography scale, voice & tone, and imagery rules.
+
 ## Documentation
 
 Project documentation lives in `docs/`:
 
 - `PROJECT.md` - Full project vision and architecture
-- `BRAND.md` - Brand guidelines template
+- `BRAND.md` - Brand guidelines (colours, typography, voice, imagery, design standard)
 - `ICP.md` - Ideal customer profile
 - `DISTRIBUTION.md` - Distribution strategy

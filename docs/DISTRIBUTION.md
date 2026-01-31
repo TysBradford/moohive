@@ -20,7 +20,7 @@ BloomHive's growth depends on building a thriving creator ecosystem first. Witho
 |--------|---------|
 | **Personal outreach** | DM 200-300 active AI video creators on X/Twitter. Personalize each message referencing their specific work. Ask them to be "founding creators." |
 | **Discord presence** | Join Runway, Pika, Kling, Sora Discord servers. Be genuinely helpful. Share the platform when relevant, never spam. |
-| **Reddit engagement** | Active participation in r/aivideo, r/StableDiffusion, r/runwayml. Answer questions, share knowledge. Soft-mention BloomHive when appropriate. |
+| **Reddit engagement** | Active participation across AI video subreddits (see detailed list below). Answer questions, share knowledge. Soft-mention BloomHive when appropriate. |
 | **Founding creator program** | Offer early creators: verified badges, feature priority, input on roadmap, "Founding Creator" permanent status. |
 
 **Who to target first:**
@@ -75,6 +75,54 @@ YouTuber promotes BloomHive more
 
 **Success criteria:** 100 creators with at least 3 videos each, actively engaging with each other's work.
 
+#### Reddit Community Strategy
+
+Reddit hosts numerous active communities where AI video creators gather. These are prime hunting grounds for early adopters.
+
+**Primary subreddits (highest priority):**
+
+| Subreddit | Members | Focus |
+|-----------|---------|-------|
+| r/aivideo | 320k+ | Dedicated AI video community — our core audience |
+| r/StableDiffusion | 1M+ | Huge AI art community, many doing video work |
+| r/midjourney | 1.1M+ | Massive crossover audience moving into AI video |
+| r/runwayml | — | Tool-specific, highly engaged users |
+
+**Tool-specific subreddits:**
+
+| Subreddit | Notes |
+|-----------|-------|
+| r/OpenAI | Sora discussions and showcases |
+| r/SoraAI | Dedicated Sora community |
+| r/KlingAI | Kling-specific content and tips |
+| r/LumaAI | Luma Dream Machine users |
+| r/pikalabs | Pika-specific community |
+
+**Broader creative/technical communities:**
+
+| Subreddit | Why it matters |
+|-----------|----------------|
+| r/aiArt | 190k+ members — general AI art, video gets shared |
+| r/generativeart | Creative AI community, appreciates process transparency |
+| r/VideoEditing | Traditional editors increasingly adopting AI tools |
+| r/filmmakers | Professionals experimenting with AI for production |
+| r/ArtificialIntelligence | Broader AI community, video showcases get attention |
+| r/LocalLlama | Technical crowd running local models — some doing video |
+| r/DeepDream | Machine learning art enthusiasts |
+
+**Engagement approach:**
+- Be genuinely helpful first — answer questions, share knowledge, troubleshoot issues
+- Share BloomHive only when directly relevant (e.g., "where can I showcase my work?")
+- Never spam or self-promote in comments unrelated to the topic
+- Build reputation over weeks before mentioning BloomHive
+- Upvote and engage with great creator work (potential outreach targets)
+
+**What to look for:**
+- Creators posting "finally finished my first AI video" — reach out via DM
+- Threads asking "where do you share your AI videos?" — natural BloomHive mention
+- Frustration posts about showcasing on X/Twitter — our value prop resonates here
+- Technique questions — demonstrate expertise, then soft-mention BloomHive
+
 ---
 
 ### Phase 2: First 1,000 Creators (Traction)
@@ -111,7 +159,7 @@ YouTuber promotes BloomHive more
 |--------|---------|
 | **Referral program** | Creators invite creators. Reward: extended features, visibility boosts, or early access to new tools. |
 | **Tool partnerships** | Partner with AI video tools (Runway, Pika, etc.) for "Share to BloomHive" integrations or co-marketing. |
-| **Events & competitions** | Host challenges: "48-hour AI film jam," "Best use of [new model feature]." Creates urgency and community moments. |
+| **Events & competitions** | Weekly sponsored competitions with tool company partners. See dedicated "Sponsored Competitions" section below. |
 | **Press & thought leadership** | Position BloomHive as the source for AI video trends. Journalists come to us for creator quotes and examples. |
 | **Creator success stories** | Document creators who got hired or gained recognition through BloomHive. Proof that the platform delivers value. |
 
@@ -401,6 +449,81 @@ GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I 
 | AI-focused newsletters | Guest posts, featured platform |
 | Tech publications | Trend reports, creator interviews |
 | Creative industry press | Position as the source for AI video talent |
+
+---
+
+## Sponsored Competitions (Phase 2+)
+
+Weekly creator competitions sponsored by AI video tool companies. A distribution engine and monetization opportunity in one.
+
+### How It Works
+
+```
+Tool company (e.g., Runway) sponsors a themed weekly challenge
+        ↓
+Creators submit entries showcasing their work
+        ↓
+Entries need upvotes for visibility → creators share links, invite others to vote
+        ↓
+New users join to vote → discover platform → some become creators
+        ↓
+Sponsor judges winners, awards prizes
+        ↓
+BloomHive charges platform fee to sponsor
+```
+
+### Value for Each Party
+
+| Party | Value |
+|-------|-------|
+| **Sponsors** | Showcase their tool's capabilities, engage power users, brand exposure, collect UGC for marketing |
+| **Creators** | Prize money, recognition, motivation to create, exposure to sponsor and community |
+| **BloomHive** | Platform fee revenue, viral sharing via upvote mechanic, recurring engagement, new user acquisition |
+
+### Competition Structure
+
+| Element | Details |
+|---------|---------|
+| **Cadence** | Weekly, with rotating sponsors |
+| **Themes** | Tool-specific ("Best Runway Gen-4 character animation") or technique-based ("Most creative use of lip sync") |
+| **Entry** | Submit video + brief description of tools/process used |
+| **Voting** | Community upvotes determine visibility; sponsor judges select winners from top entries |
+| **Prizes** | Cash, tool credits, featured placement, "Competition Winner" badge |
+
+### The Viral Loop
+
+The upvote requirement is the distribution engine:
+- Creators share entry links on X, Discord, Reddit to gather votes
+- Friends/followers click through → discover BloomHive
+- Some vote and leave, others explore → sign up → become creators
+- More creators = more competition entries = more sharing
+
+### Monetization
+
+| Fee Type | Details |
+|----------|---------|
+| **Platform fee** | Flat fee or percentage of prize pool charged to sponsor |
+| **Premium placement** | Sponsors can pay extra for homepage takeover, email feature, etc. |
+| **Recurring packages** | Discounted rates for sponsors committing to multiple weeks |
+
+### Launch Criteria
+
+Don't launch until:
+- 1,000+ active creators (enough participation to make competitions compelling)
+- Proven engagement patterns (creators returning weekly)
+- At least one tool company has expressed interest
+
+### Example Competition
+
+> **Week 12: Kling AI Character Challenge**
+>
+> *Sponsored by Kling*
+>
+> Create a 10-second character animation using Kling. Show us emotion, movement, personality.
+>
+> **Prizes:** 1st: $500 + 1 year Kling Pro | 2nd: $250 + 6 months Kling Pro | 3rd: $100 + 3 months Kling Pro
+>
+> **Judging:** Top 20 by upvotes reviewed by Kling team. Winners announced Friday.
 
 ---
 

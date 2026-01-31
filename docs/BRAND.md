@@ -6,9 +6,7 @@
 
 **BloomHive**
 
-"Bloom" captures the flourishing of creativity — work emerging, evolving, and coming to life. "Hive" speaks to collective energy — a community buzzing with shared purpose and mutual support. Together, BloomHive is where AI video creators grow together.
-
-### Tagline
+"Bloom" captures the flourishing of creativity — work emerging, evolving, and coming to life. "Hive" speaks to collective energy — a community buzzing with shared purpose and mutual support.OTagline
 
 **Where AI video creators thrive**
 
@@ -25,6 +23,31 @@ BloomHive is a creator-first community. The platform exists to serve the people 
 ### Brand Promise
 
 We give AI video creators the recognition and connections they deserve — and we'll never put the platform ahead of the community.
+
+### Design Standard
+
+**BloomHive is a premium brand. The UI and UX must reflect that at every level.**
+
+The experience should feel hand-crafted and made with love — every interaction considered, every pixel intentional, every animation purposeful. This is not a startup MVP with "good enough" design. This is award-calibre work from day one.
+
+**Core Design Principles**
+
+- **Elegant and sophisticated** — refined, confident, never cluttered or loud
+- **Clear visual identity** — instantly recognisable, cohesive across all touchpoints
+- **Obsessive attention to detail** — micro-interactions, spacing, transitions all matter
+- **Made with love** — the care we put in should be felt by everyone who uses it
+
+We should expect to win top design awards for this work.
+
+**What this means in practice:**
+
+- Generic patterns and templates are unacceptable
+- Every component should feel considered, not assembled
+- White space is a feature, not wasted real estate
+- Subtle polish (shadows, transitions, hover states) distinguishes premium from pedestrian
+- The UI should feel warm and human, not cold and corporate
+
+The platform frames creator content — it never competes with it. But the frame itself must be beautiful.
 
 ---
 
@@ -62,27 +85,27 @@ The palette is intentionally restrained. Creator content is the star — the UI 
 
 **Primary Palette**
 
-| Name           | Hex       | Usage                                          |
-| -------------- | --------- | ---------------------------------------------- |
-| **Void**       | `#0A0A0B` | Primary background (dark mode default)         |
-| **Surface**    | `#141416` | Cards, elevated surfaces                       |
-| **Chalk**      | `#FAFAFA` | Primary text, high-contrast elements           |
+| Name              | Hex         | Usage                                  |
+| ----------------- | ----------- | -------------------------------------- |
+| **Void**    | `#0A0A0B` | Primary background (dark mode default) |
+| **Surface** | `#141416` | Cards, elevated surfaces               |
+| **Chalk**   | `#FAFAFA` | Primary text, high-contrast elements   |
 
 **Secondary Palette**
 
-| Name           | Hex       | Usage                                          |
-| -------------- | --------- | ---------------------------------------------- |
-| **Mist**       | `#71717A` | Secondary text, metadata, subtle borders       |
-| **Ember**      | `#F97316` | Primary accent, CTAs, creator highlights       |
-| **Ember Soft** | `#FDBA74` | Hover states, secondary accent                 |
+| Name                 | Hex         | Usage                                    |
+| -------------------- | ----------- | ---------------------------------------- |
+| **Mist**       | `#71717A` | Secondary text, metadata, subtle borders |
+| **Ember**      | `#F97316` | Primary accent, CTAs, creator highlights |
+| **Ember Soft** | `#FDBA74` | Hover states, secondary accent           |
 
 **Functional Colours**
 
-| Name        | Hex       | Usage                             |
-| ----------- | --------- | --------------------------------- |
-| **Success** | `#22C55E` | Confirmations, positive states    |
-| **Warning** | `#FACC15` | Cautions, pending states          |
-| **Error**   | `#EF4444` | Errors, destructive actions       |
+| Name              | Hex         | Usage                          |
+| ----------------- | ----------- | ------------------------------ |
+| **Success** | `#22C55E` | Confirmations, positive states |
+| **Warning** | `#FACC15` | Cautions, pending states       |
+| **Error**   | `#EF4444` | Errors, destructive actions    |
 
 **Usage Guidelines**
 
@@ -179,12 +202,12 @@ BloomHive speaks as a peer in the community — not as a corporation talking to 
 
 **Voice Attributes**
 
-| Attribute         | What it means                                        | What it's not               |
-| ----------------- | ---------------------------------------------------- | --------------------------- |
+| Attribute                  | What it means                                            | What it's not            |
+| -------------------------- | -------------------------------------------------------- | ------------------------ |
 | **Community-minded** | We speak as "we" (the community), not "we" (the company) | Corporate, distancing    |
-| **Generous**      | We share knowledge freely, celebrate others' wins    | Gatekeeping, competitive    |
-| **Grounded**      | Practical, realistic about the state of AI video     | Hype-driven, breathless     |
-| **Curious**       | Genuinely interested in how things work, always learning | Know-it-all, dismissive  |
+| **Generous**         | We share knowledge freely, celebrate others' wins        | Gatekeeping, competitive |
+| **Grounded**         | Practical, realistic about the state of AI video         | Hype-driven, breathless  |
+| **Curious**          | Genuinely interested in how things work, always learning | Know-it-all, dismissive  |
 
 ### Tone Variations
 
@@ -230,12 +253,12 @@ The voice stays consistent; tone shifts based on context.
 
 **Example Transformations**
 
-| Instead of                                    | Write                                          |
-| --------------------------------------------- | ---------------------------------------------- |
-| "Upload your content now!"                    | "Add your first video"                         |
-| "Our platform helps users showcase videos"    | "Show your work. Share your process."          |
-| "Leverage our powerful discovery features"    | "Find creators by style, tool, or technique"   |
-| "Join thousands of users today"               | "Join the community"                           |
+| Instead of                                 | Write                                        |
+| ------------------------------------------ | -------------------------------------------- |
+| "Upload your content now!"                 | "Add your first video"                       |
+| "Our platform helps users showcase videos" | "Show your work. Share your process."        |
+| "Leverage our powerful discovery features" | "Find creators by style, tool, or technique" |
+| "Join thousands of users today"            | "Join the community"                         |
 
 ---
 

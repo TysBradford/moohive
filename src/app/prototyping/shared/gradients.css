@@ -1,0 +1,94 @@
+/*
+ * Gradient Placeholder Styles for Video Thumbnails
+ * Each prototype can use these or define its own variations
+ */
+
+/* Gallery Noir - Rich, saturated, high contrast */
+.gradient-noir-1 { background: linear-gradient(135deg, #2D1B4E 0%, #831843 50%, #0F172A 100%); }
+.gradient-noir-2 { background: linear-gradient(160deg, #134E4A 0%, #0E7490 60%, #1E1B4B 100%); }
+.gradient-noir-3 { background: linear-gradient(145deg, #4C1D95 0%, #7E22CE 50%, #1E1B4B 100%); }
+.gradient-noir-4 { background: linear-gradient(130deg, #701A75 0%, #BE185D 50%, #1F2937 100%); }
+.gradient-noir-5 { background: linear-gradient(155deg, #0F766E 0%, #2DD4BF 40%, #0C4A6E 100%); }
+.gradient-noir-6 { background: linear-gradient(140deg, #1E3A8A 0%, #3B82F6 50%, #0F172A 100%); }
+
+/* Editorial Grid - More muted, sophisticated */
+.gradient-editorial-1 { background: linear-gradient(135deg, #1C1C1E 0%, #2C2C2E 50%, #3C3C3E 100%); }
+.gradient-editorial-2 { background: linear-gradient(145deg, #1A1A2E 0%, #16213E 50%, #0F0F23 100%); }
+.gradient-editorial-3 { background: linear-gradient(130deg, #2D2D2D 0%, #3D3D3D 60%, #1D1D1D 100%); }
+.gradient-editorial-4 { background: linear-gradient(155deg, #1F1F1F 0%, #292929 50%, #121212 100%); }
+.gradient-editorial-5 { background: linear-gradient(140deg, #18181B 0%, #27272A 50%, #09090B 100%); }
+.gradient-editorial-6 { background: linear-gradient(150deg, #1E1E22 0%, #2A2A2E 50%, #0E0E10 100%); }
+
+/* Organic Flow - Dreamy, warm, soft */
+.gradient-organic-1 { background: linear-gradient(135deg, #FED7AA 0%, #FDBA74 50%, #FB923C 100%); }
+.gradient-organic-2 { background: linear-gradient(160deg, #DDD6FE 0%, #C4B5FD 50%, #A78BFA 100%); }
+.gradient-organic-3 { background: linear-gradient(145deg, #FBCFE8 0%, #F9A8D4 50%, #F472B6 100%); }
+.gradient-organic-4 { background: linear-gradient(150deg, #BAE6FD 0%, #7DD3FC 50%, #38BDF8 100%); }
+.gradient-organic-5 { background: linear-gradient(140deg, #FDE68A 0%, #FCD34D 50%, #FBBF24 100%); }
+.gradient-organic-6 { background: linear-gradient(155deg, #BBF7D0 0%, #86EFAC 50%, #4ADE80 100%); }
+
+/* Brutalist Minimal - Harsh, neon, confrontational */
+.gradient-brutalist-1 { background: linear-gradient(135deg, #22C55E 0%, #000000 100%); }
+.gradient-brutalist-2 { background: linear-gradient(180deg, #F97316 0%, #0A0A0A 100%); }
+.gradient-brutalist-3 { background: linear-gradient(90deg, #EF4444 0%, #0F0F0F 100%); }
+.gradient-brutalist-4 { background: linear-gradient(135deg, #FACC15 0%, #111111 100%); }
+.gradient-brutalist-5 { background: linear-gradient(160deg, #06B6D4 0%, #0A0A0A 100%); }
+.gradient-brutalist-6 { background: linear-gradient(145deg, #A855F7 0%, #080808 100%); }
+
+/* Refined Luxury - Sophisticated, muted, expensive */
+.gradient-luxury-1 { background: linear-gradient(135deg, #1E3A5F 0%, #0D1B2A 50%, #051018 100%); }
+.gradient-luxury-2 { background: linear-gradient(145deg, #4A1942 0%, #2D1128 50%, #170B14 100%); }
+.gradient-luxury-3 { background: linear-gradient(130deg, #3D3D3D 0%, #2A2A2A 40%, #1A1A1A 100%); }
+.gradient-luxury-4 { background: linear-gradient(150deg, #2C3E50 0%, #1A252F 50%, #0D1318 100%); }
+.gradient-luxury-5 { background: linear-gradient(140deg, #4A3728 0%, #2E221A 50%, #1A140F 100%); }
+.gradient-luxury-6 { background: linear-gradient(155deg, #1E3A3A 0%, #132626 50%, #0A1515 100%); }
+
+/* Gold accent for luxury */
+.gradient-luxury-gold { background: linear-gradient(135deg, #B8860B 0%, #DAA520 30%, #FFD700 50%, #DAA520 70%, #B8860B 100%); }
+
+/* Shared utilities */
+.thumbnail-placeholder {
+  position: relative;
+  overflow: hidden;
+}
+
+.thumbnail-placeholder::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom, transparent 60%, rgba(10, 10, 11, 0.8) 100%);
+  pointer-events: none;
+}
+
+/* Play button overlay */
+.play-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.play-overlay:hover {
+  opacity: 1;
+}
+
+.play-button {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(4px);
+}
+
+.play-button svg {
+  width: 20px;
+  height: 20px;
+  fill: #0A0A0B;
+  margin-left: 2px;
+}
