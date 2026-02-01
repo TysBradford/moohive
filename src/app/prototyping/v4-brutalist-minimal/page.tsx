@@ -31,7 +31,7 @@ export default function BrutalistMinimal() {
           className="text-chalk text-sm font-bold uppercase tracking-[0.3em]"
           style={{ writingMode: "vertical-rl", transform: "rotate(180deg)" }}
         >
-          BLOOMHIVE
+          MOOHIVE
         </span>
 
         <button
@@ -189,7 +189,7 @@ export default function BrutalistMinimal() {
         <footer className="border-t-2 border-chalk">
           <div className="px-8 md:px-16 py-6 flex items-center justify-between">
             <span className="text-xs font-mono text-mist uppercase tracking-widest">
-              © BLOOMHIVE 2024
+              © MOOHIVE 2024
             </span>
             <div className="flex items-center gap-8">
               <span className="text-xs font-mono text-mist hover:text-chalk cursor-pointer uppercase tracking-widest transition-colors">

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { ArrowLeft, Search, Bell } from "lucide-react";
 
@@ -150,9 +150,252 @@ function StackedCards() {
   );
 }
 
+function CinemaCurtain() {
+  const [scrollProgress, setScrollProgress] = useState(0);
+  const curtainRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (!curtainRef.current) return;
+
+      const triggerStart = window.innerHeight * 0.5; // Start opening at 50vh scroll
+      const triggerEnd = window.innerHeight * 1.2; // Fully open by 120vh scroll
+      const scrollY = window.scrollY;
+
+      if (scrollY < triggerStart) {
+        setScrollProgress(0);
+      } else if (scrollY > triggerEnd) {
+        setScrollProgress(1);
+      } else {
+        // Custom easing curve for weight/momentum feel
+        const raw = (scrollY - triggerStart) / (triggerEnd - triggerStart);
+        // Cubic ease-out for heavy, decelerating motion
+        const eased = 1 - Math.pow(1 - raw, 3);
+        setScrollProgress(eased);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    handleScroll(); // Initial check
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  // Curtain should fade out completely when fully open
+  const opacity = scrollProgress < 0.95 ? 1 : 1 - ((scrollProgress - 0.95) / 0.05);
+
+  if (scrollProgress >= 1 && opacity <= 0) return null;
+
+  return (
+    <div
+      ref={curtainRef}
+      className="fixed inset-0 pointer-events-none z-30"
+      style={{ opacity }}
+    >
+      {/* Left curtain panel */}
+      <div
+        className="absolute top-0 bottom-0 left-0 w-1/2"
+        style={{
+          transform: `translateX(-${scrollProgress * 100}%)`,
+          transition: "none", // Using scroll-driven animation, no CSS transition
+        }}
+      >
+        {/* Velvet texture with pleating */}
+        <div className="relative w-full h-full">
+          {/* Main curtain fabric - deep burgundy velvet */}
+          <div
+            className="absolute inset-0"
+            style={{
+              background: `
+                linear-gradient(
+                  90deg,
+                  #5a1a1a 0%,
+                  #6b2020 4%,
+                  #5a1a1a 8%,
+                  #6b2020 12%,
+                  #5a1a1a 16%,
+                  #6b2020 20%,
+                  #5a1a1a 24%,
+                  #6b2020 28%,
+                  #5a1a1a 32%,
+                  #6b2020 36%,
+                  #5a1a1a 40%,
+                  #6b2020 44%,
+                  #5a1a1a 48%,
+                  #6b2020 52%,
+                  #5a1a1a 56%,
+                  #6b2020 60%,
+                  #5a1a1a 64%,
+                  #6b2020 68%,
+                  #5a1a1a 72%,
+                  #6b2020 76%,
+                  #5a1a1a 80%,
+                  #6b2020 84%,
+                  #5a1a1a 88%,
+                  #6b2020 92%,
+                  #5a1a1a 96%,
+                  #6b2020 100%
+                )
+              `,
+            }}
+          />
+
+          {/* Highlight sheen on pleats */}
+          <div
+            className="absolute inset-0 opacity-20"
+            style={{
+              background: `
+                repeating-linear-gradient(
+                  90deg,
+                  transparent 0%,
+                  transparent 3%,
+                  rgba(255, 255, 255, 0.15) 3.5%,
+                  rgba(255, 255, 255, 0.25) 4%,
+                  rgba(255, 255, 255, 0.15) 4.5%,
+                  transparent 5%,
+                  transparent 8%
+                )
+              `,
+            }}
+          />
+
+          {/* Fabric texture grain */}
+          <div
+            className="absolute inset-0 opacity-30"
+            style={{
+              backgroundImage: `
+                repeating-linear-gradient(
+                  0deg,
+                  transparent,
+                  transparent 2px,
+                  rgba(0, 0, 0, 0.03) 2px,
+                  rgba(0, 0, 0, 0.03) 4px
+                )
+              `,
+            }}
+          />
+
+          {/* Shadow gradient towards center */}
+          <div
+            className="absolute top-0 bottom-0 right-0 w-24"
+            style={{
+              background: `linear-gradient(to left, rgba(0, 0, 0, 0.4), transparent)`,
+            }}
+          />
+        </div>
+      </div>
+
+      {/* Right curtain panel */}
+      <div
+        className="absolute top-0 bottom-0 right-0 w-1/2"
+        style={{
+          transform: `translateX(${scrollProgress * 100}%)`,
+          transition: "none",
+        }}
+      >
+        {/* Velvet texture with pleating */}
+        <div className="relative w-full h-full">
+          {/* Main curtain fabric */}
+          <div
+            className="absolute inset-0"
+            style={{
+              background: `
+                linear-gradient(
+                  90deg,
+                  #6b2020 0%,
+                  #5a1a1a 4%,
+                  #6b2020 8%,
+                  #5a1a1a 12%,
+                  #6b2020 16%,
+                  #5a1a1a 20%,
+                  #6b2020 24%,
+                  #5a1a1a 28%,
+                  #6b2020 32%,
+                  #5a1a1a 36%,
+                  #6b2020 40%,
+                  #5a1a1a 44%,
+                  #6b2020 48%,
+                  #5a1a1a 52%,
+                  #6b2020 56%,
+                  #5a1a1a 60%,
+                  #6b2020 64%,
+                  #5a1a1a 68%,
+                  #6b2020 72%,
+                  #5a1a1a 76%,
+                  #6b2020 80%,
+                  #5a1a1a 84%,
+                  #6b2020 88%,
+                  #5a1a1a 92%,
+                  #6b2020 96%,
+                  #5a1a1a 100%
+                )
+              `,
+            }}
+          />
+
+          {/* Highlight sheen */}
+          <div
+            className="absolute inset-0 opacity-20"
+            style={{
+              background: `
+                repeating-linear-gradient(
+                  90deg,
+                  transparent 0%,
+                  transparent 3%,
+                  rgba(255, 255, 255, 0.15) 3.5%,
+                  rgba(255, 255, 255, 0.25) 4%,
+                  rgba(255, 255, 255, 0.15) 4.5%,
+                  transparent 5%,
+                  transparent 8%
+                )
+              `,
+            }}
+          />
+
+          {/* Fabric texture */}
+          <div
+            className="absolute inset-0 opacity-30"
+            style={{
+              backgroundImage: `
+                repeating-linear-gradient(
+                  0deg,
+                  transparent,
+                  transparent 2px,
+                  rgba(0, 0, 0, 0.03) 2px,
+                  rgba(0, 0, 0, 0.03) 4px
+                )
+              `,
+            }}
+          />
+
+          {/* Shadow gradient towards center */}
+          <div
+            className="absolute top-0 bottom-0 left-0 w-24"
+            style={{
+              background: `linear-gradient(to right, rgba(0, 0, 0, 0.4), transparent)`,
+            }}
+          />
+        </div>
+      </div>
+
+      {/* Center shadow cast on content behind */}
+      <div
+        className="absolute top-0 left-1/2 -translate-x-1/2 w-32 h-full"
+        style={{
+          background: `radial-gradient(ellipse at center, rgba(0, 0, 0, ${0.3 * (1 - scrollProgress)}) 0%, transparent 70%)`,
+          opacity: 1 - scrollProgress,
+        }}
+      />
+    </div>
+  );
+}
+
 export default function V8Hero() {
   return (
     <div className="min-h-screen bg-[#FAF9F7]">
+      {/* Cinema Curtain Reveal */}
+      <CinemaCurtain />
+
       {/* Header */}
       <nav className="fixed top-0 left-0 right-0 z-50 px-6 py-5 flex items-center justify-between bg-[#FAF9F7]/90 backdrop-blur-sm border-b border-stone-200">
         <div className="flex items-center gap-6">
@@ -163,7 +406,7 @@ export default function V8Hero() {
             <ArrowLeft className="w-5 h-5" />
           </Link>
           <span className="text-xl font-semibold text-stone-900 tracking-tight">
-            BloomHive
+            MooHive
           </span>
         </div>
 
@@ -289,7 +532,7 @@ export default function V8Hero() {
       <footer className="border-t border-stone-200 bg-stone-50">
         <div className="px-6 py-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
-            <span className="text-sm font-semibold text-stone-900">BloomHive</span>
+            <span className="text-sm font-semibold text-stone-900">MooHive</span>
             <p className="text-xs text-stone-500 mt-1">Where AI video creators thrive</p>
           </div>
           <div className="flex items-center gap-6">

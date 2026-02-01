@@ -1,6 +1,6 @@
 # UI/UX Implementation Guidelines
 
-Every screen, component, and interaction in BloomHive must feel hand-crafted and premium. No generic patterns. No default styling. Every detail matters.
+Every screen, component, and interaction in MooHive must feel hand-crafted and premium. No generic patterns. No default styling. Every detail matters.
 
 ## Universal Principles
 

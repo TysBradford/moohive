@@ -1,8 +1,8 @@
-# BloomHive — Distribution Strategy
+# MooHive — Distribution Strategy
 
 ## Overview
 
-BloomHive's growth depends on building a thriving creator ecosystem first. Without quality creator content, there's nothing for hirers to discover. Our distribution strategy prioritizes attracting passionate AI video creators who will become the foundation of the community.
+MooHive's growth depends on building a thriving creator ecosystem first. Without quality creator content, there's nothing for hirers to discover. Our distribution strategy prioritizes attracting passionate AI video creators who will become the foundation of the community.
 
 **Core principle:** Creators first, always. A platform with 100 active creators posting great work is more valuable than 10,000 passive accounts.
 
@@ -20,7 +20,7 @@ BloomHive's growth depends on building a thriving creator ecosystem first. Witho
 |--------|---------|
 | **Personal outreach** | DM 200-300 active AI video creators on X/Twitter. Personalize each message referencing their specific work. Ask them to be "founding creators." |
 | **Discord presence** | Join Runway, Pika, Kling, Sora Discord servers. Be genuinely helpful. Share the platform when relevant, never spam. |
-| **Reddit engagement** | Active participation across AI video subreddits (see detailed list below). Answer questions, share knowledge. Soft-mention BloomHive when appropriate. |
+| **Reddit engagement** | Active participation across AI video subreddits (see detailed list below). Answer questions, share knowledge. Soft-mention MooHive when appropriate. |
 | **Founding creator program** | Offer early creators: verified badges, feature priority, input on roadmap, "Founding Creator" permanent status. |
 
 **Who to target first:**
@@ -32,35 +32,35 @@ BloomHive's growth depends on building a thriving creator ecosystem first. Witho
 
 #### YouTube Tutorial Creator Strategy
 
-YouTubers who post "how to use AI video tools" content are a high-priority target. They have built-in audiences of people learning AI video — exactly who we want on BloomHive.
+YouTubers who post "how to use AI video tools" content are a high-priority target. They have built-in audiences of people learning AI video — exactly who we want on MooHive.
 
 **Why they're valuable:**
 - Already have engaged audiences interested in AI video
 - Create educational content (aligns with our transparency values)
 - Need somewhere to showcase their example outputs beyond video descriptions
-- Their tutorials become funnels to BloomHive
+- Their tutorials become funnels to MooHive
 
 **What we offer them:**
 | Value | Description |
 |-------|-------------|
 | **Official portfolio** | A dedicated space to showcase all their tutorial outputs, organized and searchable |
 | **Recognition** | Likes, features, "Top Creator" badges — social proof they can reference in videos |
-| **Backlinks** | Every video on BloomHive can link back to their YouTube tutorial |
-| **Audience growth** | BloomHive users discover their tutorials through their portfolio |
+| **Backlinks** | Every video on MooHive can link back to their YouTube tutorial |
+| **Audience growth** | MooHive users discover their tutorials through their portfolio |
 
 **The flywheel:**
 ```
-YouTuber joins BloomHive
+YouTuber joins MooHive
         ↓
-Adds portfolio link to video descriptions ("See all my work on BloomHive")
+Adds portfolio link to video descriptions ("See all my work on MooHive")
         ↓
-Tutorial viewers visit BloomHive
+Tutorial viewers visit MooHive
         ↓
 Viewers sign up, discover other creators
         ↓
-BloomHive grows → more eyeballs on YouTuber's portfolio
+MooHive grows → more eyeballs on YouTuber's portfolio
         ↓
-YouTuber promotes BloomHive more
+YouTuber promotes MooHive more
 ```
 
 **Outreach approach:**
@@ -112,22 +112,22 @@ Reddit hosts numerous active communities where AI video creators gather. These a
 
 **Engagement approach:**
 - Be genuinely helpful first — answer questions, share knowledge, troubleshoot issues
-- Share BloomHive only when directly relevant (e.g., "where can I showcase my work?")
+- Share MooHive only when directly relevant (e.g., "where can I showcase my work?")
 - Never spam or self-promote in comments unrelated to the topic
-- Build reputation over weeks before mentioning BloomHive
+- Build reputation over weeks before mentioning MooHive
 - Upvote and engage with great creator work (potential outreach targets)
 
 **What to look for:**
 - Creators posting "finally finished my first AI video" — reach out via DM
-- Threads asking "where do you share your AI videos?" — natural BloomHive mention
+- Threads asking "where do you share your AI videos?" — natural MooHive mention
 - Frustration posts about showcasing on X/Twitter — our value prop resonates here
-- Technique questions — demonstrate expertise, then soft-mention BloomHive
+- Technique questions — demonstrate expertise, then soft-mention MooHive
 
 ---
 
 ### Phase 2: First 1,000 Creators (Traction)
 
-**Goal:** Establish BloomHive as the go-to destination for serious AI video creators.
+**Goal:** Establish MooHive as the go-to destination for serious AI video creators.
 
 **Strategy: Social proof + content flywheel**
 
@@ -136,14 +136,14 @@ Reddit hosts numerous active communities where AI video creators gather. These a
 | **Creator spotlights** | Weekly features of standout work shared across all channels. Creators share their features → exposure to their audience. |
 | **Tool-specific collections** | Curated galleries: "Best of Runway," "Kling Showcase," etc. Creators want to be included → they join and upload. |
 | **Technique breakdowns** | Partner with top creators to do deep-dives on their process. Educational content that drives traffic. |
-| **Cross-promotion** | Encourage creators to add BloomHive links to their X/YouTube bios. Provide nice-looking portfolio cards they can share. |
+| **Cross-promotion** | Encourage creators to add MooHive links to their X/YouTube bios. Provide nice-looking portfolio cards they can share. |
 | **SEO foundation** | Creator profiles and video pages optimized for "[creator name] AI video" and "[tool name] examples" searches. |
 
 **Amplification loops:**
-1. Creator uploads video → BloomHive shares on X with credit → Creator reshares → Their followers discover BloomHive
-2. Creator gets featured → Adds "Featured on BloomHive" to bio → Social proof attracts peers
+1. Creator uploads video → MooHive shares on X with credit → Creator reshares → Their followers discover MooHive
+2. Creator gets featured → Adds "Featured on MooHive" to bio → Social proof attracts peers
 3. Technique post ranks on Google → New creator discovers → Signs up to learn more
-4. YouTuber links portfolio in video description → Viewers visit BloomHive → Discover other creators → Follow YouTuber on BloomHive → Click through to more of their YouTube content
+4. YouTuber links portfolio in video description → Viewers visit MooHive → Discover other creators → Follow YouTuber on MooHive → Click through to more of their YouTube content
 
 **Success criteria:** 1,000 creators, 50+ weekly active uploaders, organic signups exceeding outreach-driven signups.
 
@@ -158,10 +158,10 @@ Reddit hosts numerous active communities where AI video creators gather. These a
 | Tactic | Details |
 |--------|---------|
 | **Referral program** | Creators invite creators. Reward: extended features, visibility boosts, or early access to new tools. |
-| **Tool partnerships** | Partner with AI video tools (Runway, Pika, etc.) for "Share to BloomHive" integrations or co-marketing. |
+| **Tool partnerships** | Partner with AI video tools (Runway, Pika, etc.) for "Share to MooHive" integrations or co-marketing. |
 | **Events & competitions** | Weekly sponsored competitions with tool company partners. See dedicated "Sponsored Competitions" section below. |
-| **Press & thought leadership** | Position BloomHive as the source for AI video trends. Journalists come to us for creator quotes and examples. |
-| **Creator success stories** | Document creators who got hired or gained recognition through BloomHive. Proof that the platform delivers value. |
+| **Press & thought leadership** | Position MooHive as the source for AI video trends. Journalists come to us for creator quotes and examples. |
+| **Creator success stories** | Document creators who got hired or gained recognition through MooHive. Proof that the platform delivers value. |
 
 **When to introduce the hirer side:**
 - After 5,000+ active creators with diverse, high-quality portfolios
@@ -189,7 +189,7 @@ Reddit hosts numerous active communities where AI video creators gather. These a
 | SEO | High priority — see dedicated section below |
 | GEO | High priority — see dedicated section below |
 | Word of mouth | Deliver genuine value → creators tell peers. Make sharing easy (portfolio cards, embed codes). |
-| Press/PR | Pitch BloomHive as the pulse of AI video creativity. Offer exclusive data on trends, creator interviews. |
+| Press/PR | Pitch MooHive as the pulse of AI video creativity. Offer exclusive data on trends, creator interviews. |
 
 ---
 
@@ -254,7 +254,7 @@ SEO is a primary acquisition channel. People searching "how to create AI videos"
 
 ## GEO Strategy (Generative Engine Optimization)
 
-GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I make AI videos?" or "where can I find AI video creators?", we want BloomHive cited.
+GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I make AI videos?" or "where can I find AI video creators?", we want MooHive cited.
 
 ### Why GEO Matters
 
@@ -310,7 +310,7 @@ GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I 
 **Citation building:**
 - Get mentioned in AI newsletters and publications
 - Contribute to Wikipedia articles on AI video (where appropriate)
-- Be active on forums and Q&A sites (Reddit, Quora) with helpful answers that mention BloomHive
+- Be active on forums and Q&A sites (Reddit, Quora) with helpful answers that mention MooHive
 - Partner with tool companies to be listed in their resources
 
 ### Measuring GEO Success
@@ -325,11 +325,11 @@ GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I 
 
 | Platform | Handle | Content Type | Priority |
 |----------|--------|--------------|----------|
-| X/Twitter | @bloomhive | Creator features, technique threads, community highlights | High (where creators live) |
-| YouTube | BloomHive | Creator spotlights, technique breakdowns, trend roundups | Medium (discovery + education) |
-| Discord | BloomHive server | Community chat, feedback, creator networking | Medium (community building) |
-| LinkedIn | BloomHive | Industry news, hirer-focused content (Phase 3+) | Low (later, for hirers) |
-| Instagram | @bloomhive | Video highlights, behind-the-scenes | Low (visual discovery) |
+| X/Twitter | @moohive | Creator features, technique threads, community highlights | High (where creators live) |
+| YouTube | MooHive | Creator spotlights, technique breakdowns, trend roundups | Medium (discovery + education) |
+| Discord | MooHive server | Community chat, feedback, creator networking | Medium (community building) |
+| LinkedIn | MooHive | Industry news, hirer-focused content (Phase 3+) | Low (later, for hirers) |
+| Instagram | @moohive | Video highlights, behind-the-scenes | Low (visual discovery) |
 
 ---
 
@@ -375,7 +375,7 @@ GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I 
 
 4. **Community moments** — New creator milestones, interesting trends, weekly roundups. (Social-first, reinforces living community)
 
-5. **Industry pulse & research** — New tool releases, model updates, AI video trends. Original data and reports. (SEO/GEO + PR — positions BloomHive as authoritative source)
+5. **Industry pulse & research** — New tool releases, model updates, AI video trends. Original data and reports. (SEO/GEO + PR — positions MooHive as authoritative source)
 
 ### Content Calendar
 
@@ -429,7 +429,7 @@ GEO is SEO for LLMs. When someone asks ChatGPT, Claude, or Perplexity "how do I 
 
 | Partner | Opportunity |
 |---------|-------------|
-| Runway | Co-marketing, "Share to BloomHive" integration, featured in their community resources |
+| Runway | Co-marketing, "Share to MooHive" integration, featured in their community resources |
 | Pika | Creator showcases, joint challenges |
 | Kling | Featured gallery partnership |
 | Luma, Minimax | Emerging tool partnerships as they grow |
@@ -469,7 +469,7 @@ New users join to vote → discover platform → some become creators
         ↓
 Sponsor judges winners, awards prizes
         ↓
-BloomHive charges platform fee to sponsor
+MooHive charges platform fee to sponsor
 ```
 
 ### Value for Each Party
@@ -478,7 +478,7 @@ BloomHive charges platform fee to sponsor
 |-------|-------|
 | **Sponsors** | Showcase their tool's capabilities, engage power users, brand exposure, collect UGC for marketing |
 | **Creators** | Prize money, recognition, motivation to create, exposure to sponsor and community |
-| **BloomHive** | Platform fee revenue, viral sharing via upvote mechanic, recurring engagement, new user acquisition |
+| **MooHive** | Platform fee revenue, viral sharing via upvote mechanic, recurring engagement, new user acquisition |
 
 ### Competition Structure
 
@@ -494,7 +494,7 @@ BloomHive charges platform fee to sponsor
 
 The upvote requirement is the distribution engine:
 - Creators share entry links on X, Discord, Reddit to gather votes
-- Friends/followers click through → discover BloomHive
+- Friends/followers click through → discover MooHive
 - Some vote and leave, others explore → sign up → become creators
 - More creators = more competition entries = more sharing
 
@@ -555,7 +555,7 @@ Don't launch until:
 | Creators don't see value vs. posting on X | Emphasize portfolio curation, process transparency, discoverability. Make it complement X, not replace it. |
 | Cold start (empty platform) | Seed with founding creators before public launch. Never launch to an empty feed. |
 | Low engagement after signup | Onboarding flow encourages immediate upload. Regular prompts and features keep creators active. |
-| Tool communities resist promotion | Be genuinely helpful first. Earn the right to mention BloomHive. Never spam. |
+| Tool communities resist promotion | Be genuinely helpful first. Earn the right to mention MooHive. Never spam. |
 | Copycats / competition | Move fast, build community moat. Relationships with creators are the defensible asset. |
 
 ---

@@ -157,7 +157,7 @@ export function Hero() {
       {/* ── Top nav ── */}
       <nav className="absolute top-0 left-0 right-0 z-30 flex items-center px-6 py-5 md:px-10">
         <span className="text-lg font-semibold tracking-tight text-chalk select-none">
-          BloomHive
+          MooHive
         </span>
       </nav>
 

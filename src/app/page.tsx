@@ -156,7 +156,7 @@ export default function Home() {
       {/* Header */}
       <nav className="fixed top-0 left-0 right-0 z-50 px-6 py-5 flex items-center justify-between bg-[#FAF9F7]/90 backdrop-blur-sm border-b border-stone-200">
         <Link href="/" className="text-xl font-semibold text-stone-900 tracking-tight">
-          BloomHive
+          MooHive
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
@@ -281,7 +281,7 @@ export default function Home() {
       <footer className="border-t border-stone-200 bg-stone-50">
         <div className="px-6 py-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
-            <span className="text-sm font-semibold text-stone-900">BloomHive</span>
+            <span className="text-sm font-semibold text-stone-900">MooHive</span>
             <p className="text-xs text-stone-500 mt-1">Where AI video creators thrive</p>
           </div>
           <div className="flex items-center gap-6">

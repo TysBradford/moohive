@@ -64,7 +64,7 @@ export default function LightUniform() {
             <ArrowLeft className="w-5 h-5" />
           </Link>
           <span className="text-xl font-semibold text-slate-900 tracking-tight">
-            BloomHive
+            MooHive
           </span>
         </div>
 
@@ -194,7 +194,7 @@ export default function LightUniform() {
       <footer className="border-t border-slate-200 bg-white">
         <div className="px-6 py-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
-            <span className="text-sm font-semibold text-slate-900">BloomHive</span>
+            <span className="text-sm font-semibold text-slate-900">MooHive</span>
             <p className="text-xs text-slate-500 mt-1">Where AI video creators thrive</p>
           </div>
           <div className="flex items-center gap-6">

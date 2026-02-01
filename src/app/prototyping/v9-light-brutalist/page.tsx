@@ -39,7 +39,7 @@ export default function LightBrutalist() {
           </Link>
 
           <span className="text-black text-lg font-bold uppercase tracking-[0.2em]">
-            BLOOMHIVE
+            MOOHIVE
           </span>
 
           <button className="bg-black hover:bg-orange-500 text-white px-4 py-2 text-xs font-bold uppercase tracking-widest transition-colors">
@@ -202,7 +202,7 @@ export default function LightBrutalist() {
         <footer className="border-t-2 border-black mt-12">
           <div className="px-6 md:px-12 py-6 flex items-center justify-between">
             <span className="text-xs font-mono text-neutral-500 uppercase tracking-widest">
-              © BLOOMHIVE 2024
+              © MOOHIVE 2024
             </span>
             <div className="flex items-center gap-6">
               <span className="text-xs font-mono text-neutral-500 hover:text-black cursor-pointer uppercase tracking-widest transition-colors">

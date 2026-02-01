@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./shared/gradients.css";
 
 export const metadata: Metadata = {
-  title: "BloomHive — Visual Prototypes",
+  title: "MooHive — Visual Prototypes",
   description: "Landing page visual identity explorations",
 };
 

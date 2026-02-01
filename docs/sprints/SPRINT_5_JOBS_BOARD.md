@@ -118,7 +118,7 @@ Build a jobs board connecting hirers with AI video creators. Surface freelance, 
 
 ## Notes
 
-This feature positions BloomHive as a two-sided marketplace: not just portfolio showcase, but active job matching. Consider integration with the messaging system for hirer-creator communication.
+This feature positions MooHive as a two-sided marketplace: not just portfolio showcase, but active job matching. Consider integration with the messaging system for hirer-creator communication.
 
 ---
 

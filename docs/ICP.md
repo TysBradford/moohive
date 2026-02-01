@@ -1,4 +1,4 @@
-# BloomHive — Ideal Customer Profile (ICP)
+# MooHive — Ideal Customer Profile (ICP)
 
 ## Primary Persona
 
@@ -94,7 +94,7 @@
 
 ### For AI video creators
 ### Who need a dedicated space to showcase work and share their creative process
-### BloomHive is a community portfolio platform
+### MooHive is a community portfolio platform
 ### That lets you display work with rich metadata (AI models, prompts, techniques)
 ### Unlike Behance, Dribbble, or social media
 ### We are purpose-built for AI video with process transparency and creator discovery

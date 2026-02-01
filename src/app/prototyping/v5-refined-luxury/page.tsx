@@ -42,7 +42,7 @@ export default function RefinedLuxury() {
                 className="text-xl text-chalk tracking-[0.15em] font-medium"
                 style={{ letterSpacing: "0.15em" }}
               >
-                BLOOMHIVE
+                MOOHIVE
               </span>
             </div>
 
@@ -246,7 +246,7 @@ export default function RefinedLuxury() {
       <footer className="px-8 md:px-12 lg:px-16 py-10 border-t border-chalk/5">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-3">
-            <span className="text-sm text-chalk tracking-[0.1em]">BLOOMHIVE</span>
+            <span className="text-sm text-chalk tracking-[0.1em]">MOOHIVE</span>
             <span className="text-mist/30">·</span>
             <span className="text-sm text-mist/50">Where AI video creators thrive</span>
           </div>

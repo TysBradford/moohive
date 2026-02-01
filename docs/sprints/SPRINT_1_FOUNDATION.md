@@ -9,7 +9,7 @@
 
 ## Goals
 
-Establish the technical foundation for BloomHive including project setup, database schema, authentication, and basic user profiles.
+Establish the technical foundation for MooHive including project setup, database schema, authentication, and basic user profiles.
 
 ## Tasks
 

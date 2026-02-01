@@ -55,7 +55,7 @@ export default function GalleryNoir() {
         </Link>
         <div className="flex items-center gap-12">
           <span className="text-2xl font-semibold text-chalk/80 tracking-tight">
-            BloomHive
+            MooHive
           </span>
         </div>
         <button className="text-chalk/60 hover:text-chalk text-sm font-medium transition-colors border border-chalk/10 hover:border-chalk/30 px-4 py-2 rounded">
@@ -139,7 +139,7 @@ export default function GalleryNoir() {
       {/* Footer - barely there */}
       <footer className="px-8 md:px-16 lg:px-24 py-8 border-t border-chalk/5">
         <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <span className="text-xs text-mist/30">BloomHive</span>
+          <span className="text-xs text-mist/30">MooHive</span>
           <span className="text-xs text-mist/30">Where AI video creators thrive</span>
         </div>
       </footer>

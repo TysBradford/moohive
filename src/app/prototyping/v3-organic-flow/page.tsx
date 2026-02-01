@@ -48,7 +48,7 @@ export default function OrganicFlow() {
           <div className="h-6 w-px bg-mist/10" />
 
           <span className="px-4 text-lg font-semibold text-chalk">
-            BloomHive
+            MooHive
           </span>
 
           <div className="h-6 w-px bg-mist/10" />
@@ -162,7 +162,7 @@ export default function OrganicFlow() {
       <footer className="px-4 md:px-8 py-8 border-t border-mist/5">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <span className="text-sm text-mist">
-            BloomHive · Where AI video creators thrive
+            MooHive · Where AI video creators thrive
           </span>
           <div className="flex items-center gap-6">
             <span className="text-sm text-mist/60 hover:text-mist cursor-pointer transition-colors">About</span>

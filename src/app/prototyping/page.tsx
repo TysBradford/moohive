@@ -71,7 +71,7 @@ export default function PrototypingIndex() {
     <div className="min-h-screen bg-void p-8 md:p-16">
       <header className="mb-16">
         <h1 className="text-4xl font-semibold text-chalk mb-3">
-          BloomHive Visual Prototypes
+          MooHive Visual Prototypes
         </h1>
         <p className="text-mist text-lg max-w-2xl">
           Landing page variations exploring different interpretations of the brand.

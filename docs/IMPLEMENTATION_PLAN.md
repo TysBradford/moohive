@@ -1,6 +1,6 @@
 # Implementation Plan
 
-> Master coordination document for BloomHive development
+> Master coordination document for MooHive development
 
 This document tracks overall progress across all development phases. For detailed implementation guides, see the individual sprint documents in `/docs/sprints/`.
 
@@ -45,7 +45,7 @@ Pre-product landing page to establish brand and capture waitlist signups.
 **Status:** 🔴 Not Started
 **Sprint Doc:** [SPRINT_1_FOUNDATION.md](./sprints/SPRINT_1_FOUNDATION.md)
 
-Establish the technical foundation for BloomHive.
+Establish the technical foundation for MooHive.
 
 ### Milestones
 - [ ] Project setup (Next.js, Supabase, Tailwind)

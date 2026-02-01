@@ -1,10 +1,10 @@
-# BloomHive — Project Overview
+# MooHive — Project Overview
 
 ## Vision
 
-BloomHive is a community and discovery platform for AI video creators — think Dribbble, but purpose-built for the AI video space.
+MooHive is a community and discovery platform for AI video creators — think Dribbble, but purpose-built for the AI video space.
 
-As AI video tools rapidly evolve, creators lack a dedicated space to showcase their work, share techniques, and connect with others in the field. BloomHive fills this gap by providing:
+As AI video tools rapidly evolve, creators lack a dedicated space to showcase their work, share techniques, and connect with others in the field. MooHive fills this gap by providing:
 
 - **For Creators:** Curated portfolios to showcase AI video work, with rich metadata about creation process (models, tools, prompts, settings). A learning resource to see what techniques top creators are using.
 - **For Appreciators & Hirers:** A discovery platform to find inspiring AI video content and connect with talented creators for potential collaboration or hire.
@@ -52,7 +52,7 @@ As AI video tools rapidly evolve, creators lack a dedicated space to showcase th
 ## Repository Structure
 
 ```
-bloomhive/
+moohive/
 ├── docs/              # Project documentation
 ├── src/
 │   ├── app/           # Next.js App Router

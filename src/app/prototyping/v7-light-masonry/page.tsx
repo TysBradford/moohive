@@ -48,7 +48,7 @@ export default function LightMasonry() {
             <ArrowLeft className="w-5 h-5" />
           </Link>
           <span className="text-xl font-semibold text-stone-900 tracking-tight">
-            BloomHive
+            MooHive
           </span>
         </div>
 
@@ -151,7 +151,7 @@ export default function LightMasonry() {
       <footer className="border-t border-stone-200 bg-stone-50">
         <div className="px-6 py-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
-            <span className="text-sm font-semibold text-stone-900">BloomHive</span>
+            <span className="text-sm font-semibold text-stone-900">MooHive</span>
             <p className="text-xs text-stone-500 mt-1">Where AI video creators thrive</p>
           </div>
           <div className="flex items-center gap-6">

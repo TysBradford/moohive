@@ -13,18 +13,18 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "BloomHive — Where AI video creators thrive",
+  title: "MooHive — Where AI video creators thrive",
   description:
     "The community where AI video creators showcase their work, share their process, and connect with collaborators and clients. Join the waitlist.",
   openGraph: {
-    title: "BloomHive — Where AI video creators thrive",
+    title: "MooHive — Where AI video creators thrive",
     description:
       "The community where AI video creators showcase their work, share their process, and connect.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "BloomHive — Where AI video creators thrive",
+    title: "MooHive — Where AI video creators thrive",
     description:
       "The community where AI video creators showcase their work, share their process, and connect.",
   },

@@ -20,7 +20,7 @@ Create a compelling landing page that:
 ## Phase 1: UI/UX Discovery
 
 ### Design Direction
-**Vibe:** Cinematic, creator-first, dark and immersive — the UI disappears and the work shines
+**Vibe:** Refined, creator-first, elegant and warm — the UI frames the work without competing
 **Focus:** Showcasing beautiful AI video work with award-calibre craft
 
 ### Reference Sites
@@ -57,9 +57,9 @@ Create a compelling landing page that:
 - **Clear CTAs** — "Join the community" / "Get early access"
 
 #### From Runway
-- **Dark immersive canvas** — near-black backgrounds let video content glow
-- **Full-bleed video hero** — cinematic, edge-to-edge video presentation
-- **Glass morphism accents** — semi-transparent surfaces with backdrop blur
+- **Cinematic presentation** — video content as the hero element
+- **Full-bleed video hero** — edge-to-edge visual impact
+- **Refined surfaces** — elegant, considered visual hierarchy
 - **Generous whitespace** — breathing room between content blocks
 - **Confident, concise copy** — short punchy statements, not paragraphs
 
@@ -71,18 +71,20 @@ Create a compelling landing page that:
 
 ### Color Palette
 
-Per brand guidelines — no competing accent colours. The UI stays dark and neutral so creator work provides all the colour.
+Per brand guidelines — warm, refined, restrained. The UI frames creator work with elegance, never competing.
 
 ```
-Background:   Void (#0A0A0B) — primary dark canvas
-Surface:      Surface (#141416) — cards, elevated elements
-Text:         Chalk (#FAFAFA) — primary text, high-contrast
-Secondary:    Mist (#71717A) — metadata, subtle borders
-Accent:       Ember (#F97316) — primary CTAs, creator highlights (use sparingly)
-Accent Soft:  Ember Soft (#FDBA74) — hover states, secondary accent
+Background:   Linen (#FAF9F7) — warm off-white canvas
+Text Primary: Charcoal (stone-900) — headings, primary text
+Text Body:    Slate (stone-500) — body copy, secondary text
+Text Meta:    Ash (stone-400) — metadata, tertiary text
+Borders:      Frost (stone-200) — dividers, borders
+Surfaces:     Pearl (stone-100) / Parchment (stone-50) — cards, backgrounds
+Hover Accent: Ember (orange-600) — hover states, active elements (use sparingly)
+Primary CTA:  Ink (stone-900) — primary buttons, important actions
 ```
 
-No purple. No lime. No rainbow of competing colours. Ember is the single accent — everything else stays neutral so the video thumbnails are the most colourful thing on the page.
+No rainbow of competing colours. Orange is used sparingly for hover states. Primary CTAs use stone-900 to keep focus on the work. Everything else stays neutral so the video thumbnails are the most colourful thing on the page.
 
 ### Typography
 
@@ -99,14 +101,14 @@ Per brand guidelines:
 
 ### Page Structure
 
-1. **Hero Header with Video Carousel**
-   - Bold headline: communicates what BloomHive is in one line
-   - Short supporting line underneath
-   - Email capture field for waitlist (inline, not a separate section)
-   - Custom carousel showcasing beautiful AI video work — this is the centrepiece
-   - Carousel should feel curated and cinematic, not a generic slider
-   - Auto-advancing with smooth transitions, manual navigation controls
-   - Each slide: video thumbnail/preview, creator name, AI model used
+1. **Hero Header with Stacked Cards**
+   - Bold headline: communicates what MooHive is in one line
+   - Short supporting line with rotating text animation (trailblazers, pioneers, artists, visionaries)
+   - Primary CTA button (stone-900 background)
+   - Stacked cards showcasing beautiful AI video work — the visual centrepiece
+   - Cards feature metallic borders with shimmer effects
+   - 3D layering effect with subtle rotation and offset
+   - Each card: gradient placeholder, title, creator name
 
 2. **Discovery Section**
    - Grid of video work and creator cards — the "feed" preview
@@ -114,7 +116,7 @@ Per brand guidelines:
    - Each card shows: thumbnail, title, creator avatar + name, AI model tag
    - Feels like a preview of what the full platform will look like
    - Category/filter chips across the top (Sora, Runway, Kling, Pika, etc.)
-   - "See more on BloomHive" CTA at the bottom
+   - "See more on MooHive" CTA at the bottom
 
 3. **Value Proposition**
    - Brief section — 2-3 short value props, not a wall of text
@@ -150,15 +152,15 @@ Per brand guidelines:
 
 ## Acceptance Criteria
 
-- [ ] Landing page live at bloomhive domain
+- [ ] Landing page live at moohive domain
 - [ ] Email waitlist functional
-- [ ] Video carousel is the centrepiece — feels curated and cinematic
+- [ ] Stacked cards hero is the centrepiece — feels refined and considered
 - [ ] Discovery grid previews the platform experience
 - [ ] Mobile and desktop responsive
 - [ ] Loads in under 2 seconds
-- [ ] Dark, immersive aesthetic aligned with brand guidelines
+- [ ] Light, refined aesthetic aligned with brand guidelines
 - [ ] Creator work is the most visually prominent element on the page
-- [ ] Clearly communicates what BloomHive is
+- [ ] Clearly communicates what MooHive is
 
 ---
 

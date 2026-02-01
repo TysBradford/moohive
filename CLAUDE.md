@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-BloomHive is a community and discovery platform for AI video creators (like Dribbble for AI video). Creators showcase portfolios with rich metadata (AI models, tools, prompts, settings), while appreciators and hirers discover and connect with talent.
+MooHive is a community and discovery platform for AI video creators (like Dribbble for AI video). Creators showcase portfolios with rich metadata (AI models, tools, prompts, settings), while appreciators and hirers discover and connect with talent.
 
 ## Commands
 
@@ -48,11 +48,13 @@ The Supabase MCP server is connected and available for direct interaction with o
 
 ## Design Standard
 
-The UI and UX of BloomHive must be award-calibre. Every surface should feel hand-crafted by the best in design and usability — never generic or pedestrian. We care about the details. This is as premium a product as one can imagine.
+The UI and UX of MooHive must be award-calibre. Every surface should feel hand-crafted by the best in design and usability — never generic or pedestrian. We care about the details. This is as premium a product as one can imagine.
 
 - **Creator content is the star** — the UI frames it, never competes with it
-- **Dark mode is the default** — optimised for video viewing
-- **Ember (#F97316) is reserved** for primary actions and creator highlights; do not overuse
+- **Light, refined aesthetic** — warm off-white backgrounds (Linen #FAF9F7), not sterile white
+- **Stone palette** — elegant, restrained neutrals (stone-900, stone-500, stone-400) that let video content provide the color
+- **Orange (Ember) is reserved** for hover states and active elements; use sparingly
+- **Primary CTAs use stone-900** — keeps focus on creator work, not UI elements
 - **Maintain WCAG AA contrast minimum** (AAA preferred for text)
 - **Use Lucide icons** — outlined style, 1.5px stroke, rounded corners and caps
 

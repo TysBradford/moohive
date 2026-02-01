@@ -4,9 +4,11 @@
 
 ### Name
 
-**BloomHive**
+**MooHive**
 
-"Bloom" captures the flourishing of creativity — work emerging, evolving, and coming to life. "Hive" speaks to collective energy — a community buzzing with shared purpose and mutual support.OTagline
+A distinctive, memorable name for the community where AI video creators thrive. "Hive" speaks to collective energy — a community buzzing with shared purpose and mutual support.
+
+### Tagline
 
 **Where AI video creators thrive**
 
@@ -18,7 +20,7 @@ The tagline centers the community. It's not about the platform — it's about th
 
 ### Brand Essence
 
-BloomHive is a creator-first community. The platform exists to serve the people who are pioneering AI video — giving them a dedicated space to be seen, to share how they work, and to find their people. We believe the best creative communities are built on transparency, generosity, and mutual respect.
+MooHive is a creator-first community. The platform exists to serve the people who are pioneering AI video — giving them a dedicated space to be seen, to share how they work, and to find their people. We believe the best creative communities are built on transparency, generosity, and mutual respect.
 
 ### Brand Promise
 
@@ -26,7 +28,7 @@ We give AI video creators the recognition and connections they deserve — and w
 
 ### Design Standard
 
-**BloomHive is a premium brand. The UI and UX must reflect that at every level.**
+**MooHive is a premium brand. The UI and UX must reflect that at every level.**
 
 The experience should feel hand-crafted and made with love — every interaction considered, every pixel intentional, every animation purposeful. This is not a startup MVP with "good enough" design. This is award-calibre work from day one.
 
@@ -55,17 +57,17 @@ The platform frames creator content — it never competes with it. But the frame
 
 ### Logo
 
-The logo should feel organic yet structured — reflecting the "bloom" (growth, creativity) and "hive" (community, interconnection) duality. It must work at small sizes and alongside the vibrant, high-contrast video content that dominates the platform.
+The logo must work at small sizes and alongside the vibrant, high-contrast video content that dominates the platform. It should feel distinctive yet sophisticated, reflecting the community-focused nature of the platform.
 
 **Primary Mark**
 
-- Wordmark-forward: "BloomHive" in the primary typeface
-- Optional symbol: Abstract hexagonal bloom motif (used sparingly)
+- Wordmark-forward: "MooHive" in the primary typeface
+- Optional symbol: Community-focused icon (used sparingly)
 - Works on both light and dark backgrounds
 
 **App Icon**
 
-- Simplified hexagonal bloom symbol
+- Simplified community symbol
 - High contrast for visibility on device home screens
 - No wordmark at icon sizes
 
@@ -81,23 +83,31 @@ The logo should feel organic yet structured — reflecting the "bloom" (growth, 
 
 ### Colors
 
-The palette is intentionally restrained. Creator content is the star — the UI should frame it, not compete with it. Dark mode is the default, optimized for video viewing.
+The palette is intentionally restrained. Creator content is the star — the UI should frame it, not compete with it. Light mode with a warm, refined aesthetic is the default.
 
 **Primary Palette**
 
-| Name              | Hex         | Usage                                  |
-| ----------------- | ----------- | -------------------------------------- |
-| **Void**    | `#0A0A0B` | Primary background (dark mode default) |
-| **Surface** | `#141416` | Cards, elevated surfaces               |
-| **Chalk**   | `#FAFAFA` | Primary text, high-contrast elements   |
+| Name              | Hex         | Tailwind      | Usage                                  |
+| ----------------- | ----------- | ------------- | -------------------------------------- |
+| **Linen**   | `#FAF9F7` | custom        | Primary background (warm off-white)    |
+| **Charcoal** | `#1C1917` | stone-900     | Primary text, headings                 |
+| **Slate**   | `#78716C` | stone-500     | Secondary text, body copy              |
 
 **Secondary Palette**
 
-| Name                 | Hex         | Usage                                    |
-| -------------------- | ----------- | ---------------------------------------- |
-| **Mist**       | `#71717A` | Secondary text, metadata, subtle borders |
-| **Ember**      | `#F97316` | Primary accent, CTAs, creator highlights |
-| **Ember Soft** | `#FDBA74` | Hover states, secondary accent           |
+| Name              | Hex         | Tailwind      | Usage                                    |
+| ----------------- | ----------- | ------------- | ---------------------------------------- |
+| **Ash**      | `#A8A29E` | stone-400     | Tertiary text, metadata                  |
+| **Frost**    | `#E7E5E4` | stone-200     | Borders, dividers                        |
+| **Parchment** | `#FAFAF9` | stone-50      | Subtle backgrounds, footer               |
+| **Pearl**    | `#F5F5F4` | stone-100     | Card backgrounds, elevated surfaces      |
+
+**Accent Palette**
+
+| Name               | Hex         | Tailwind      | Usage                                    |
+| ------------------ | ----------- | ------------- | ---------------------------------------- |
+| **Ember**     | `#EA580C` | orange-600    | Hover states, active elements            |
+| **Ink**       | `#1C1917` | stone-900     | Primary CTAs, important actions          |
 
 **Functional Colours**
 
@@ -109,9 +119,10 @@ The palette is intentionally restrained. Creator content is the star — the UI 
 
 **Usage Guidelines**
 
-- Dark backgrounds are default — light mode is secondary
-- Ember is reserved for primary actions and creator highlights; don't overuse
-- Let video thumbnails provide the colour; UI stays neutral
+- Light backgrounds are default — warm, refined, not sterile white
+- Orange (Ember) is used sparingly for hover states and active elements
+- Primary CTAs use Ink (stone-900), not orange — keeps focus on the work
+- Let video thumbnails provide the colour; UI stays neutral and elegant
 - Maintain WCAG AA contrast ratios minimum (AAA preferred for text)
 
 ### Typography
@@ -169,7 +180,7 @@ Icons are utilitarian. They aid navigation and comprehension — they're not dec
 
 ### Imagery
 
-On BloomHive, creator videos ARE the imagery. The platform doesn't need stock photos or illustrations — the content provides all visual interest.
+On MooHive, creator videos ARE the imagery. The platform doesn't need stock photos or illustrations — the content provides all visual interest.
 
 **Style**
 
@@ -198,7 +209,7 @@ On BloomHive, creator videos ARE the imagery. The platform doesn't need stock ph
 
 ### Brand Voice
 
-BloomHive speaks as a peer in the community — not as a corporation talking to users. We're fellow enthusiasts who built a space we wanted to exist. The voice is warm but not effusive, knowledgeable but not preachy, direct but not cold.
+MooHive speaks as a peer in the community — not as a corporation talking to users. We're fellow enthusiasts who built a space we wanted to exist. The voice is warm but not effusive, knowledgeable but not preachy, direct but not cold.
 
 **Voice Attributes**
 
@@ -266,12 +277,12 @@ The voice stays consistent; tone shifts based on context.
 
 ### Positioning Statement
 
-For AI video creators who need a dedicated space to showcase their work and share their process, BloomHive is the community portfolio platform that gives you recognition and connects you with collaborators and clients — unlike generic portfolio sites or social media, we're purpose-built for AI video with process transparency at the core.
+For AI video creators who need a dedicated space to showcase their work and share their process, MooHive is the community portfolio platform that gives you recognition and connects you with collaborators and clients — unlike generic portfolio sites or social media, we're purpose-built for AI video with process transparency at the core.
 
 ### Key Messages
 
 **Primary Message**
-BloomHive is where AI video creators build their presence, share their process, and connect with a community that gets what they do.
+MooHive is where AI video creators build their presence, share their process, and connect with a community that gets what they do.
 
 **Supporting Messages**
 
@@ -282,7 +293,7 @@ BloomHive is where AI video creators build their presence, share their process, 
 
 ### Elevator Pitch
 
-"BloomHive is a community platform for AI video creators — like Dribbble for the AI video space. Creators build portfolios, share their process (models, prompts, techniques), and connect with others in the field. For hirers and appreciators, it's the best place to discover AI video talent."
+"MooHive is a community platform for AI video creators — like Dribbble for the AI video space. Creators build portfolios, share their process (models, prompts, techniques), and connect with others in the field. For hirers and appreciators, it's the best place to discover AI video talent."
 
 ---
 
@@ -297,7 +308,7 @@ BloomHive is where AI video creators build their presence, share their process, 
 
 ### Web App
 
-- Dark mode default; video content pops
+- Light, refined aesthetic; warm backgrounds let video content glow
 - Generous spacing around video thumbnails
 - Metadata (AI model, tools) visible but secondary to the work itself
 - Minimal chrome; the feed IS the experience
@@ -306,7 +317,7 @@ BloomHive is where AI video creators build their presence, share their process, 
 
 - Plain text aesthetic; no heavy graphics
 - Valuable content (featured work, community updates) not promotional noise
-- Consistent "From: BloomHive" — no fake personal names
+- Consistent "From: MooHive" — no fake personal names
 - Easy unsubscribe; respect inbox
 
 ### Social Media
