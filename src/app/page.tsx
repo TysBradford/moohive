@@ -152,6 +152,13 @@ function StackedCards() {
 }
 
 export default function Home() {
+  function scrollToJoinSection() {
+    const joinSection = document.getElementById("join");
+    if (joinSection) {
+      joinSection.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  }
+
   return (
     <div className="min-h-screen bg-[#FAF9F7]">
       {/* Header */}
@@ -198,7 +205,10 @@ export default function Home() {
                 Discover, share, and learn with the <RotatingText /> shaping a new art form
               </p>
 
-              <button className="mt-8 bg-stone-900 hover:bg-stone-800 text-white font-medium px-6 py-3 rounded-full transition-colors text-base">
+              <button
+                onClick={scrollToJoinSection}
+                className="mt-8 bg-stone-900 hover:bg-stone-800 text-white font-medium px-6 py-3 rounded-full transition-colors text-base"
+              >
                 Join the community
               </button>
             </div>
