@@ -2,7 +2,7 @@
 
 > Pre-product landing page to establish brand, build waitlist, and validate interest
 
-**Status:** 🟡 In Progress (Discovery Phase)
+**Status:** 🟢 Complete
 **Priority:** High — ship before building core product
 
 ---
@@ -143,8 +143,8 @@ Per brand guidelines:
 
 ## Phase 3: Launch Landing Page
 
-- [ ] Deploy to Vercel
-- [ ] Connect custom domain
+- [x] Deploy to Vercel
+- [x] Connect custom domain
 - [ ] Set up basic analytics
 - [ ] Share for feedback
 
@@ -193,3 +193,4 @@ _Add notes here as we review references_
 | 2026-01-25 | Created sprint with discovery phase |
 | 2026-01-27 | Overhauled design direction: dropped B2B SaaS references, aligned to creative showcase inspiration (Dribbble, Runway, Behance, Vimeo, ArtStation, Pika), removed purple from palette, restructured page around hero carousel + discovery grid |
 | 2026-02-04 | Added Value Proposition section, dynamic OG images (Next.js opengraph-image.tsx), SVG favicon, marked technical requirements complete |
+| 2026-02-05 | Deployed to production at moohive.com |

@@ -10,8 +10,8 @@ This document tracks overall progress across all development phases. For detaile
 
 | Phase | Status | Sprint Doc |
 |-------|--------|------------|
-| 0. Landing Page | 🟡 In Progress | [Sprint 0](./sprints/SPRINT_0_LANDING_PAGE.md) |
-| 1. Foundation | 🔴 Not Started | [Sprint 1](./sprints/SPRINT_1_FOUNDATION.md) |
+| 0. Landing Page | 🟢 Complete | [Sprint 0](./sprints/SPRINT_0_LANDING_PAGE.md) |
+| 1. Foundation | 🟢 Complete | [Sprint 1](./sprints/SPRINT_1_FOUNDATION.md) |
 | 2. Core Features | 🔴 Not Started | [Sprint 2](./sprints/SPRINT_2_CORE.md) |
 | 3. Community | 🔴 Not Started | [Sprint 3](./sprints/SPRINT_3_COMMUNITY.md) |
 | 4. Launch | 🔴 Not Started | [Sprint 4](./sprints/SPRINT_4_LAUNCH.md) |
@@ -21,37 +21,37 @@ This document tracks overall progress across all development phases. For detaile
 
 ## Current Focus
 
-**Sprint 0: Landing Page** — UI/UX discovery phase, establishing brand direction
+**Sprint 2: Core Features** — Ready to begin
 
 ---
 
 ## Phase 0 — Landing Page
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Complete
 **Sprint Doc:** [SPRINT_0_LANDING_PAGE.md](./sprints/SPRINT_0_LANDING_PAGE.md)
 
 Pre-product landing page to establish brand and capture waitlist signups.
 
 ### Milestones
-- [ ] UI/UX discovery and reference gathering
-- [ ] Design direction finalized
-- [ ] Landing page built and deployed
-- [ ] Email waitlist functional
+- [x] UI/UX discovery and reference gathering
+- [x] Design direction finalized
+- [x] Landing page built and deployed
+- [x] Email waitlist functional
 
 ---
 
 ## Phase 1 — Foundation
 
-**Status:** 🔴 Not Started
+**Status:** 🟢 Complete
 **Sprint Doc:** [SPRINT_1_FOUNDATION.md](./sprints/SPRINT_1_FOUNDATION.md)
 
 Establish the technical foundation for MooHive.
 
 ### Milestones
-- [ ] Project setup (Next.js, Supabase, Tailwind)
-- [ ] Database schema design
-- [ ] Auth flow (sign up, login, OAuth)
-- [ ] Basic user profiles
+- [x] Project setup (Next.js, Supabase, Tailwind)
+- [x] Database schema design
+- [x] Auth flow (sign up, login, OAuth)
+- [x] Basic user profiles
 
 ---
 
@@ -123,6 +123,8 @@ A dedicated jobs board surfacing AI video creator opportunities, connecting hire
 
 | Date | Update |
 |------|--------|
+| 2026-02-05 | **Phase 1 complete.** Database schema, auth, and profiles implemented |
+| 2026-02-05 | **Phase 0 complete.** Landing page deployed to moohive.com |
 | 2026-02-01 | Added Phase 5 (Jobs Board) for AI video creator opportunities |
 | 2026-01-25 | Added Sprint 0 (Landing Page) with UI/UX discovery phase |
 | 2026-01-25 | Restructured implementation plan with sprint docs |
